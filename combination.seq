@@ -1,0 +1,17 @@
+              COMBINATIONS
+
+
+    nCr = n!/r!(n-r)!
+
+    n = number of objects
+    r = number taken at a time
+
+    To get the number of combinations
+    using this function, enter the
+    number of objects(n) then the
+    CLEAR/HOME key then the number
+    taken at a time(r) then the 
+    equal sign.
+
+    KEY IN :  2<clear>2=
+    ANSWER :  1

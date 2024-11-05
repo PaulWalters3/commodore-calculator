@@ -1,0 +1,12 @@
+              CLEAR ENTRY
+
+
+    When inputing values and you
+    enter an incorrect value, hit
+    the DELETE key to erase that
+    value.  Only that value will
+    be cleared, not the rest of
+    memory.
+
+    KEY IN : 5+2<DELETE>3=
+    ANSWER : 8

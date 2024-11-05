@@ -1,0 +1,20 @@
+           CARTESIAN COORDS
+
+
+    To get the CARTESIAN COORDINATES
+    (x,y) from POLAR COORDINATES
+    (r,0), enter the r and hit the
+    cursor up/down key.  Enter the
+    0 (theta) and hit the cursor
+    right/left key.  To convert,
+    hit the f1 key to get INVERSE,
+    then the cursor right/left key
+    to key the x value.  To get the
+    y value, hit the RETURN key.
+
+    KEY IN :  3<crsrud>
+    KEY IN :  7<crsrrl>
+    KEY IN :  <f1><crsrrl>
+    ANSWER :  2.97763845 (= x)
+    KEY IN :  <return>
+    ANSWER :  .36560803 (= y)

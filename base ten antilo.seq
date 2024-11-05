@@ -1,0 +1,12 @@
+            BASE 10 ANTILOG
+
+
+    To get the BASE 10 ANTILOG of a
+    number, x, make sure there is a
+    number on the display and hit
+    the <f1> key to get INVERSE and
+    then the <f4> key to get the
+    BASE 10 ANTILOG of x.
+
+    KEY IN :  5<f1><f4>
+    ANSWER :  100000

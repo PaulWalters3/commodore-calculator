@@ -1,0 +1,9 @@
+              CLEAR MEMORY
+
+
+    To clear one of the nine memory
+    locations, hit the X key then
+    you will be asked for a location,
+    (1..9).  Enter the correct 
+    location and that value will be
+    cleared.

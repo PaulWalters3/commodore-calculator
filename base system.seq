@@ -1,0 +1,19 @@
+              BASE SYSTEM
+
+
+    On CALCULATOR, there are four
+    different number bases.  They
+    are BINARY, OCTAL, HEXADECIMAL,
+    and DECIMAL.  To convert
+    between bases, hit the @ key
+    followed by the first letter of
+    the name of the base you wish
+    to convert to.  The current 
+    base is displayed on the left
+    side of the screen.
+
+    CONVERT TO BINARY:
+    KEY IN :  5  (from decimal base)
+    KEY IN :  @
+    KEY IN :  B
+    ANSWER :  101

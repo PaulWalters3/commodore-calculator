@@ -1,0 +1,22 @@
+             TIME CONVERSIONS
+
+
+    By using the  :  key, you can
+    convert a number in the form
+    degrees.minutesseconds, into
+    its decimal equivalent and a
+    decimal number back to 
+    degrees.minutesseconds.
+
+    CONVERT D.MS into DEGREES:
+
+    KEY IN :  12.354789:
+    ANSWER :  12.5968009
+   
+    Note :  12  .  35    47    89
+           deg    min   sec  1/100th
+
+    CONVERT DEGREES into D.MS
+
+    KEY IN :  13.125634<f1>:
+    ANSWER :  13.073216

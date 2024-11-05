@@ -1,0 +1,12 @@
+                FACTORIAL
+
+
+    n! (read n factorial) is equal
+    to n * (n-1) * ... * 2 * 1.  
+    The highest n in computing     
+    FACTORIAL is 32.  To compute
+    factorial, enter the number n,
+    followed by !.
+
+    KEY IN :  5!
+    ANSWER :  120

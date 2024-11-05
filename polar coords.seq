@@ -1,0 +1,21 @@
+              POLAR COORDS
+
+
+    To get the POLAR COORDS (r,0)
+    from CARTESIAN COORDS (x,y),
+    enter the x, and hit the
+    <cursor up/down> key.  Enter
+    the y and hit the <cursor
+    right/left> key.  To convert,
+    hit the <f1> key to get 
+    INVERSE, then the <cursor
+    up/down> key to get the r
+    value.  To get the 0 value,
+    hit the <return> key.
+
+    KEY IN :  3<crsrud>
+    KEY IN :  7<crsrrl>
+    KEY IN :  <f1><crsrud>
+    ANSWER :  7.61573101
+    KEY IN :  <return>
+    ANSWER :  66.8014085

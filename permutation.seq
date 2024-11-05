@@ -1,0 +1,18 @@
+              PERMUTATION
+
+
+    nPr = n!/(n-r)!
+
+    n = number of objects
+    r = number taken at a time
+
+    To get the number of possible
+    arrangements from a grouping,
+    enter the number of objects,
+    n, then the <f1> key for INVERSE,
+    then the <clear/home> key for
+    nPr, then the number taken at
+    a time, r, then the equal sign.
+
+    KEY IN :  2<f1><clear>2=
+    ANSWER :  2

@@ -1,0 +1,11 @@
+              DECIMAL BASE
+
+
+    A number in DECIMAL BASE uses
+    digits 0..9.  This number may
+    be converted into one of the
+    other bases.  When you are in
+    the DECIMAL BASE, DEC appears
+    on the left side of the screen.
+    See BASE SYSTEM for more infor-
+    mation.

@@ -1,0 +1,12 @@
+              OCTAL BASE
+
+
+    OCTAL BASE or BASE 8.  When
+    in OCTAL BASE, OCT appears on
+    the left side of the screen.
+    Only digits 0..7 may be used.
+    The maximum number in decimal 
+    that may be used is 16777215
+    plus or minus.  See BASE SYSTEM
+    on how to convert between the
+    BASE SYSTEMS.
