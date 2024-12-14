@@ -2,6 +2,8 @@
 
 This is a scientific calculator program written for the Commodore 64.
 
+![CalculatorScreenshot](https://github.com/user-attachments/assets/5727ba69-2e1d-4654-98ed-15aa7c978062)
+
 To load the program:
 
 LOAD"CALCULATOR",8
